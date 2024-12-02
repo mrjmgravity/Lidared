@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338054584471",
+    "firebase_url": "https://mine-todolist-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mine-todolist",
+    "storage_bucket": "mine-todolist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338054584471:android:f3f684c5655c300ac6f1d2",
+        "android_client_info": {
+          "package_name": "com.example.minetodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338054584471-i28qg22lqtpeli3qdnpab8kcug829607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoZeygIVXhvr9vY8HVJ5PrNYNwtK1P87I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338054584471-i28qg22lqtpeli3qdnpab8kcug829607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
